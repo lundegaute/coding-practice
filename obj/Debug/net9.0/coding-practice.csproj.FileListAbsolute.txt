@@ -1,0 +1,14 @@
+E:\Programmering\Mine Prosjekter\coding-challenges\coding-practice\bin\Debug\net9.0\coding-practice.exe
+E:\Programmering\Mine Prosjekter\coding-challenges\coding-practice\bin\Debug\net9.0\coding-practice.deps.json
+E:\Programmering\Mine Prosjekter\coding-challenges\coding-practice\bin\Debug\net9.0\coding-practice.runtimeconfig.json
+E:\Programmering\Mine Prosjekter\coding-challenges\coding-practice\bin\Debug\net9.0\coding-practice.dll
+E:\Programmering\Mine Prosjekter\coding-challenges\coding-practice\bin\Debug\net9.0\coding-practice.pdb
+E:\Programmering\Mine Prosjekter\coding-challenges\coding-practice\obj\Debug\net9.0\coding-practice.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programmering\Mine Prosjekter\coding-challenges\coding-practice\obj\Debug\net9.0\coding-practice.AssemblyInfoInputs.cache
+E:\Programmering\Mine Prosjekter\coding-challenges\coding-practice\obj\Debug\net9.0\coding-practice.AssemblyInfo.cs
+E:\Programmering\Mine Prosjekter\coding-challenges\coding-practice\obj\Debug\net9.0\coding-practice.csproj.CoreCompileInputs.cache
+E:\Programmering\Mine Prosjekter\coding-challenges\coding-practice\obj\Debug\net9.0\coding-practice.dll
+E:\Programmering\Mine Prosjekter\coding-challenges\coding-practice\obj\Debug\net9.0\refint\coding-practice.dll
+E:\Programmering\Mine Prosjekter\coding-challenges\coding-practice\obj\Debug\net9.0\coding-practice.pdb
+E:\Programmering\Mine Prosjekter\coding-challenges\coding-practice\obj\Debug\net9.0\coding-practice.genruntimeconfig.cache
+E:\Programmering\Mine Prosjekter\coding-challenges\coding-practice\obj\Debug\net9.0\ref\coding-practice.dll
