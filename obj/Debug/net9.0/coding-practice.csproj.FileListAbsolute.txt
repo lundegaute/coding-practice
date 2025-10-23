@@ -12,3 +12,4 @@ E:\Programmering\Mine Prosjekter\coding-challenges\coding-practice\obj\Debug\net
 E:\Programmering\Mine Prosjekter\coding-challenges\coding-practice\obj\Debug\net9.0\coding-practice.pdb
 E:\Programmering\Mine Prosjekter\coding-challenges\coding-practice\obj\Debug\net9.0\coding-practice.genruntimeconfig.cache
 E:\Programmering\Mine Prosjekter\coding-challenges\coding-practice\obj\Debug\net9.0\ref\coding-practice.dll
+E:\Programmering\Mine Prosjekter\coding-challenges\coding-practice\obj\Debug\net9.0\coding-practice.sourcelink.json
