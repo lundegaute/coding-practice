@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("coding-practice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e65b77f8a224e2e11908f7ccbad45a9cc56f37dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8006f4dfc176e3e82e57c8702567355ccbe19413")]
 [assembly: System.Reflection.AssemblyProductAttribute("coding-practice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("coding-practice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
