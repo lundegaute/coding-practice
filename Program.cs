@@ -14,4 +14,4 @@ using CodingPractice.Api;
 
 // Running Linq queries on JsonPlaceholderApi data
 var apiLinq = new PlaceholderLinqExamples();
-await apiLinq.GeographicUserDistribution();
+await apiLinq.TopContentCreators();
