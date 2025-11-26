@@ -1,7 +1,6 @@
-
-
 using System.Text;
 
+namespace CodingPractice.Kata;
 public abstract class AbstractKata7
 {
     public abstract string BinaryToText(string binaryString);
